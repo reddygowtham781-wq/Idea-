@@ -1,0 +1,6 @@
+{
+  "name": "IdeaFlow",
+  "description": "Brainstorm, track, find mistakes, and solve roadblocks for your ideas with AI assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
